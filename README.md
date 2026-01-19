@@ -1,8 +1,15 @@
 # ¡Hola! Soy Abril 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrolladora+Backend+%2F+Data+Analysis;Apasionada+por+la+Arquitectura+de+Software" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tu%20Nombre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20|%20Último%20Año&descSize=20&descAlignY=60" />
 </p>
+
+---
+
+### 🛠️ Actualmente trabajando en...
+- 🎓 Proyectos personales
+- 🐍 Portfolio
+- 🏗️ Profundizando en patrones de diseño y microservicios
 
 ---
 
