@@ -1,7 +1,7 @@
 # ¡Hola! Soy Abril 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tu%20Nombre&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20|%20Último%20Año&descSize=20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=Abril%20Juarez&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20|%20Último%20Año&descSize=20&descAlignY=60" />
 </p>
 
 ---
