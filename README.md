@@ -52,10 +52,10 @@ Soy estudiante de **Ingeniería en Sistemas**, actualmente cursando mi **último
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrilvj&show_icons=true&theme=tokyonight" alt="Stats de Abril" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrilvj&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrilvj&show_icons=true&theme=rose_pine&count_private=true&cache_seconds=1800" alt="Stats de Abril" height="192px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrilvj&layout=compact&theme=rose_pine&include_all_commits=true&count_private=true&cache_seconds=1800&hide=html,css,scss" alt="Lenguajes más usados" height="192px" />
 </p>
-
 ---
 
 ### 📫 Contacto
